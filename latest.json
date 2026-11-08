@@ -1,7 +1,7 @@
 {
-  "code": 109,
-  "name": "AutoLink 0.5.9",
-  "notes": "",
-  "size": 16672408,
-  "url": "https://raw.githubusercontent.com/JasurbekAkhunov/autolink-releases/main/apk/autolink-109.apk"
+  "code": 110,
+  "name": "AutoLink 0.5.10",
+  "notes": "Селфи: не переворачивать снимок фронтальной камеры, тёмный экран камеры в светлой теме",
+  "size": 10045113,
+  "url": "https://raw.githubusercontent.com/JasurbekAkhunov/autolink-releases/main/apk/autolink-110.apk"
 }
