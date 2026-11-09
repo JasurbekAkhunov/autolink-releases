@@ -1,7 +1,7 @@
 {
-  "code": 112,
-  "name": "AutoLink 0.5.12",
-  "notes": "Объявления: цвет кузова, разбор канала Avtobozor.uz",
-  "size": 10045113,
-  "url": "https://raw.githubusercontent.com/JasurbekAkhunov/autolink-releases/main/apk/autolink-112.apk"
+  "code": 113,
+  "name": "AutoLink 0.5.13",
+  "notes": "Марка и модель выбираются из каталога, поиск по-русски",
+  "size": 10061497,
+  "url": "https://raw.githubusercontent.com/JasurbekAkhunov/autolink-releases/main/apk/autolink-113.apk"
 }
